@@ -1,0 +1,6 @@
+.table__row_header {
+    border: none;
+    justify-content: end;
+    padding: 5px;
+    gap: 12px;
+}

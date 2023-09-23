@@ -1,0 +1,10 @@
+.kit {
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    background: url(../../static/images/backgrounds/background-metal.png) center
+    center/cover no-repeat;
+    height: 1060px;
+    width: 100%;
+    align-items: flex-start;
+}

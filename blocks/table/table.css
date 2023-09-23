@@ -1,0 +1,7 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    border-spacing: 10px;
+    width: 630px;
+    gap: 1px;
+}

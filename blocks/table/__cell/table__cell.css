@@ -1,0 +1,7 @@
+.table__cell {
+    width: 140px;
+    text-align: center;
+    max-height: 64px;
+    padding: 0;
+    text-decoration: none;
+}

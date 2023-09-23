@@ -1,0 +1,6 @@
+.kit__buy {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

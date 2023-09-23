@@ -1,0 +1,5 @@
+.table__cell_text {
+    width: 100%;
+    max-width: 180px;
+    text-align: left;
+}

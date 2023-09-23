@@ -1,0 +1,5 @@
+.table__server {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}

@@ -1,0 +1,7 @@
+.table__row {
+    border: rgba(103, 29, 0, 0.5) 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
